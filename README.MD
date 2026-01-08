@@ -18,3 +18,4 @@ python main.app
 ## Инструменты
 -pandas
 -matplotlib
+# https://github.com/Anastasiy66/final-project
