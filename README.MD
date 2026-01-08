@@ -15,3 +15,6 @@
 pip install -r requirements.txt
 python main.app
 ```
+## Инструменты
+-pandas
+-matplotlib
